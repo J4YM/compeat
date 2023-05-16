@@ -1,9 +1,10 @@
 function downloaded() {
-  Swal.fire(
-    'File Downloading!',
-    'Please wait a few seconds!',
-    'success'
-  )
+  Swal.fire({
+    icon: 'success',
+    title: 'File Downloading!',
+    text:'Please wait for a few moments',
+    footer:'File will be named b07byo.apk'
+  })
 }
 
 const myCarouselElement = document.querySelector('#myCarousel')
