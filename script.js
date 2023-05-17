@@ -14,10 +14,3 @@ function downloaded2() {
     text:'Please wait a few seconds',
   })
 }  
-
-const myCarouselElement = document.querySelector('#myCarousel')
-
-const carousel = new bootstrap.Carousel(myCarouselElement, {
-  interval: 2000,
-  touch: false
-})
