@@ -1,7 +1,7 @@
 
 # CompEat | Cuppy Break
 
-This is a Simple Transaction App that is suable for both Customers and Business Owners.
+This is a Simple Transaction App that is suitable for both Customers and Business Owners.
 
 This Version of the CompEat App is a partnership with a Café Business named [Cuppy Break](https://www.facebook.com/profile.php?id=100084980381466)
 
